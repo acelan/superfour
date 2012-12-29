@@ -4,8 +4,8 @@ On a 6x7 board, 2 players put a blue/red stone from top of the board in turns. T
 
 Screenshots
 -----------
-![screenshot1](https://github.com/acelan/guessing-number/raw/master/doc/images/screenshot01.png)
-![screenshot2](https://github.com/acelan/guessing-number/raw/master/doc/images/screenshot02.png)
+![screenshot1](https://github.com/acelan/superfour/raw/master/doc/images/screenshot01.png)
+![screenshot2](https://github.com/acelan/superfour/raw/master/doc/images/screenshot02.png)
 
 Author
 ------
