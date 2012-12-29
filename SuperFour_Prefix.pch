@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'SuperFour' target in the 'SuperFour' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
